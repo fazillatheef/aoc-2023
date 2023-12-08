@@ -36,10 +36,4 @@ for i in range(len(cards)):
 print(total_count)
 
 # Need to find if there is a better way to write this recursion
-
-
-
-
-
-
-     
+#Can be done using Tabulation. Very easy. So need to find the right way to do recursion.
